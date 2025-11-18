@@ -1267,6 +1267,11 @@ footer {
     display: block;
   }
 
+  /* Show only theme toggle on mobile in header */
+  .nav-links .theme-toggle {
+    display: none;
+  }
+
   .hero h1 {
     font-size: 2.5rem;
   }
