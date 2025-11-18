@@ -1265,6 +1265,7 @@ footer {
 
   .mobile-menu-btn {
     display: block;
+    margin-right: 2rem;
   }
 
   /* Show only theme toggle on mobile in header */
